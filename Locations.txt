@@ -1,0 +1,9 @@
+rasman_loc = Rasman
+nagara_loc = Nagara
+garmsar_loc = Garmsar
+feruz_loc = Feruz Abad
+loy_loc = Loy Manara
+bastam_loc = Bastam
+chak_loc = Chak Chak
+chaman_loc = Chaman
+zavarak_loc = Zavarak
