@@ -1,0 +1,1 @@
+// timer// int zählt runter in sekunden_time = _this select 0;_i = 0;While {_i < _time} do {	_i = _i + 1;	sleep 1;};timeup = true;publicVariable "timeup";
