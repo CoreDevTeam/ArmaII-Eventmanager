@@ -8,6 +8,15 @@
 // -> DAC Zonen erstellbar per Code ? Individuell löschbar ? 
 //ABS::Note : Bei den Missionen einen Timer einbauen.
 //Nach dessen ablauf wird die Mission gelöscht und auf nicht erfüllt getellt.Soweit es geht, alles Missions objekte/ai löschen.
+//Missionen
+// 0 70%
+// 1 0%
+// 2 0%
+// 3 0%
+// 4 0%
+// 5 0%
+// 6 0%
+// 7 0%
 // Code cleanup
 
 //////////////////////////////////////////////Var///////////////////////////////////////////////
