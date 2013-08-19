@@ -79,7 +79,7 @@ switch ( _ran_mission_num ) do
 	case 6 : { execVM "data\Missions\6\mission.sqf"; };
 	case 7 : { execVM "data\Missions\7\mission.sqf"; };
 };
-
+sleep 12;
 // Warten bis die Mission die var mission_complete von false auf True setzt
 // sleep um CPU performance zu sparen, prüfung der var im 5 sec Takt, 
 // später vielleicht niedrigere Frequenz bei performance einbrüchen
